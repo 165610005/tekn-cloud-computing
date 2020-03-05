@@ -1,0 +1,27 @@
+Sebelum menginstall Apache ofbiz pastikan laptop/pc anda sudah terinstal Java terlebih dahulu:
+![download](https://user-images.githubusercontent.com/49517571/75942158-4310d900-5ec4-11ea-8855-8c6ff78ef3c3.png)
+
+setelah java terinstall selanjutnya ekstrak file grandel dan apache ofbiz yang telah di download
+lalu copykan folder kedua file yang telah anda ekstrak tadi ke path yang ada di system variable.
+![download (1)](https://user-images.githubusercontent.com/49517571/75942481-0a253400-5ec5-11ea-8877-27be8d33e6ac.png)
+
+Buka command prompt cari folder apache ofbiz yang sudah diekstrak 
+![download (2)](https://user-images.githubusercontent.com/49517571/75942544-3a6cd280-5ec5-11ea-9c22-4f4e5b204a63.png)
+
+kemudian install gradle atau apache ant untuk mengkompilasi source code menjadi executable
+![download (3)](https://user-images.githubusercontent.com/49517571/75942584-5c665500-5ec5-11ea-98cb-3e217558bb3e.png)
+
+setelah itu ketikkan ant load-demo untuk mengisikan data ke database demo
+![download (4)](https://user-images.githubusercontent.com/49517571/75942617-7bfd7d80-5ec5-11ea-94b1-471bb8e95783.png)
+
+Setelah proses selesai maka jalankan Apache ofbiz dengan perintah ant start
+![download (5)](https://user-images.githubusercontent.com/49517571/75942639-8b7cc680-5ec5-11ea-9061-9f9400ed3f30.png)
+
+Setelah proses selesai maka jalankan Apache ofbiz dengan perintah ant start
+![download (6)](https://user-images.githubusercontent.com/49517571/75942680-a94a2b80-5ec5-11ea-81dc-9b0c2bf8099b.png)
+
+Apache ofbiz telah selesai diinstall
+![download (7)](https://user-images.githubusercontent.com/49517571/75942718-c1ba4600-5ec5-11ea-8659-6d3110e3e323.png)
+
+masukkan username dan password,setelah username dan password dimasukkan maka akan muncul tampilan
+![download (8)](https://user-images.githubusercontent.com/49517571/75942799-f1694e00-5ec5-11ea-95bc-248d8322fd9c.png)
